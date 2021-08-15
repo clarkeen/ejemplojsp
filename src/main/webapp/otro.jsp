@@ -15,6 +15,5 @@
     <body>
         <h1>Esta es la segunda sección.</h1>
         <a href="<c:url value="/index.jsp"/>">Volver atrás</a>
-         <jsp:include page="/WEB-INF/shared/footer.jsp"/>
     </body>
 </html>
